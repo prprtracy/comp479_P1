@@ -1,0 +1,10 @@
+acq
+alum
+austdlr
+austral
+barley
+wheat
+wool
+wpi
+yen
+zinc
